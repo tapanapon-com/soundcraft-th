@@ -1,0 +1,37 @@
+{
+  "id": "soundcraft",
+  "name": "SoundCraft",
+  "repository": "https://github.com/tapanapon-com/soundcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/soundcraft",
+    "releaseTag": "v0.18.0",
+    "releaseUrl": "https://github.com/storytold/soundcraft/releases/tag/v0.18.0",
+    "publishedAt": "2026-11-06T20:22:08Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "bb0e070ab93d13f7c5acb5a3608e7280f89415cf",
+    "sourceVersion": "0.17.0",
+    "macDownload": "https://github.com/storytold/soundcraft/releases/download/v0.18.0/soundcraft-0.18.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/soundcraft/releases/download/v0.18.0/soundcraft-0.18.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/soundcraft/releases/download/v0.18.0/soundcraft-0.18.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/soundcraft/releases/download/v0.18.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "ปรับการตรวจ controller MIDI ซ้ำโดยแยกตาม channel และชนิด",
+        "source": "https://github.com/storytold/soundcraft/pull/1298"
+      },
+      {
+        "text": "ปรับการจับคู่ automation lanes กับพารามิเตอร์ของ insert ใน Mixer",
+        "source": "https://github.com/storytold/soundcraft/pull/1299"
+      },
+      {
+        "text": "รักษา bext chunk ของไฟล์ต้นทาง BWF ระหว่างการแปลงไฟล์",
+        "source": "https://github.com/storytold/soundcraft/pull/1314"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#soundcraft"
+}
