@@ -31,7 +31,25 @@
         "text": "รักษา bext chunk ของไฟล์ต้นทาง BWF ระหว่างการแปลงไฟล์",
         "source": "https://github.com/storytold/soundcraft/pull/1314"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.18.0",
+        "publishedAt": "2026-11-06T20:22:08Z",
+        "url": "https://github.com/storytold/soundcraft/releases/tag/v0.18.0"
+      },
+      {
+        "tag": "v0.17.1",
+        "publishedAt": "2026-11-05T01:24:46Z",
+        "url": "https://github.com/storytold/soundcraft/releases/tag/v0.17.1"
+      },
+      {
+        "tag": "v0.17.0",
+        "publishedAt": "2026-11-03T00:44:42Z",
+        "url": "https://github.com/storytold/soundcraft/releases/tag/v0.17.0"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#soundcraft"
+  "versionLog": "https://github.com/tapanapon-com/soundcraft-th/blob/main/docs/version-log.md"
 }
