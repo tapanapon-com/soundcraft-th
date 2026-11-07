@@ -79,7 +79,7 @@ SoundCraft TH is an independent Thai-edition preparation project for [SoundCraft
 
 ### Features and workflow
 
-บันทึก แก้ไข และมิกซ์เสียง พร้อมงาน MIDI. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Record, edit and mix multitrack audio and MIDI using the mixer, plugins and automation. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
